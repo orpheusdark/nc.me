@@ -2,7 +2,7 @@
   "name": "portfolio",
   "homepage": "https://hamishw.com",
   "description": "Portfolio site for Nirant Chavda",
-  "repository": "https://github.com/HamishMW/portfolio.git",
+  "repository": "https://github.com/orpheusdark/nc.me.git",
   "author": "Nirant Chavda",
   "sideEffects": false,
   "type": "module",
